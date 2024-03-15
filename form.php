@@ -12,7 +12,7 @@
 <body>
     <div class="container p-5">
 
-        <form action="" class="d-flex flex-column justify-content-center align-items-center">
+        <form action="results.php" class="d-flex flex-column justify-content-center align-items-center">
             <div class="d-flex flex-column align-items-center mb-5">
                 <label for="">Inserisci una frase</label>
 

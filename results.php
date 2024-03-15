@@ -1,6 +1,10 @@
 <?php 
 
-$userText
+$userText = $_GET['user-text'];
+$userWord = $_GET['user-word'];
+
+
+
 
 
 ?>
@@ -14,6 +18,8 @@ $userText
     <title>Risultati dal form</title>
 </head>
 <body>
+
+<h1>hello</h1>
     <p></p>
 </body>
 </html>
