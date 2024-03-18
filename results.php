@@ -39,16 +39,16 @@ $paragrafoCensurato = str_ireplace($userWord, '***', $userText);
                 ?>
             </div>
 
-    <div id="censured-paragraph" class="d-flex flex-column pe-3">
-            <?php
-            // Stampo il paragrafo censurato e la sua lunghezza
-            echo "<h2>Paragrafo censurato:</h2>";
-            echo "<p>$paragrafoCensurato</p>";
-            echo "<p>Lunghezza del paragrafo censurato: " . strlen($paragrafoCensurato) . "</p>";
+            <div id="censured-paragraph" class="d-flex flex-column pe-3">
+                <?php
+                // Stampo il paragrafo censurato e la sua lunghezza
+                echo "<h2>Paragrafo censurato:</h2>";
+                echo "<p>$paragrafoCensurato</p>";
+                echo "<p>Lunghezza del paragrafo censurato: " . strlen($paragrafoCensurato) . "</p>";
 
-            ?>
+                ?>
 
-    </div>
+            </div>
         </div>
 
     </div>

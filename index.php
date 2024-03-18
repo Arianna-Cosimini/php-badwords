@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>php-badwords</title>
 </head>
 <body>
-    ciao
+    <a href="./form.php">Clicca qui per accedere al form</a>
 </body>
 </html>
